@@ -1,6 +1,6 @@
 # AI Nanodegree
 
-This repository contains all the major projects that I completed during Udacity's AI nanodegree program. These projects are the final submitted versionsn and fulfill all the passing criteria.
+This repository contains all the major projects that I completed during Udacity's AI nanodegree program. These projects are the final submitted versions and fulfill all the passing criteria.
 
 
 
